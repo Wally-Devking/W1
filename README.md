@@ -33,9 +33,8 @@ What's Next?
 This is just the beginning. I'm already planning my next project, eager to learn and grow.
 
 Try It Out!
-You can check out and use my calculator here: Link to Calculator
 
-Thank you for your support on this coding adventure! 🌟 Feel free to fork, star, or provide feedback. Happy coding, everyone! 🚀👩‍💻👨‍💻 #FirstProject #WebDev #Calculator
+Thank you for your support on this coding adventure! 🌟 Feel free to fork, star, or provide feedback. Happy coding, everyone! 🚀👩‍💻👨‍💻 #FirstProject #WebDev #Dev-King
 
 
 
